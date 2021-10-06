@@ -1,1 +1,1 @@
-# Booking-Management-platform
+# Koding-Demon-Resort-Booking-Form
